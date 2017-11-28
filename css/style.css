@@ -1,0 +1,24 @@
+/*.div-1 {*/
+    /*height: 200px;*/
+    /*width: 10px;*/
+    /*border: 1px solid green;*/
+    /*float: left;*/
+    /*margin: 0 0 0 50px;*/
+    /*transform:skew(40deg);*/
+/*.div-2 {*/
+    /*height: 200px;*/
+    /*width: 10px;*/
+    /*border: 1px solid red;*/
+    /*float: left;*/
+    /*margin: 0 0 0 86px;*/
+    /*transform: skew(40deg);*/
+/*}*/
+
+.div-3 {
+    height: 150px;
+    width: 90px;
+    border: 10px solid green;
+    float: left;
+    border-radius:50% 0 0 50%;
+    border-right:none;
+}
